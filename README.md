@@ -1,6 +1,6 @@
 # Hey, I'm Christopher Buffard! :wave:
 
-I am a Data Scientist proficient in Python, specializing in libraries like Pandas, Scikit-Learn, Matplotlib and Power BI.
+I am a Data Scientist proficient in Python, specializing in libraries like Pandas, Scikit-Learn, Matplotlib, Power BI and SQL.
 
 "I am passionate about technology and thrive in applying my skills across diverse areas. My expertise spans various domains and particularly enjoy addressing environmental challenges and developing innovative sustainable solutions to complex problems to collaborating on projects that drive progress. I enjoy tackling challenges in multiple fields and contributing to meaningful advancements through technology."
 
